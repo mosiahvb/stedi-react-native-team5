@@ -8,9 +8,16 @@ export default function Login(props){
             <Button title="Log In David" onPress={()=>{
                 console.log('Hello David!')
             }}></Button>
-            <Button title="Log In" onPress={()=>{
-                console.log('')
+            <Button title="Log In Mosiah" onPress={()=>{
+                console.log('Hello Mosiah!')
             }}></Button>
+            <Button title="Log In Ryan" onPress={()=>{
+                console.log('Hello Ryan!')
+            }}></Button>
+            <Button title="Log In" onPress={()=>{
+                console.log('Hello Ian!')
+            }}></Button>
+            
         </View>
 
     );
