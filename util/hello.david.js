@@ -1,5 +1,5 @@
-function returnName() {
-    return "David York";
+function sayHello() {
+    return "Hello";
 }
 
-console.log('Hello', returnName());
+export default sayHello();
