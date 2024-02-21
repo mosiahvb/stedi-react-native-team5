@@ -1,4 +1,4 @@
-import hello from "../utils/hello.ian.js";
+import hello from "../util/hello.ian.js";
 
 it ("should say Ian",()=>{
     const helloString=hello();
